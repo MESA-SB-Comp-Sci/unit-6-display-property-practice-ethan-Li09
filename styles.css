@@ -48,7 +48,23 @@ div {
     display: inline;
 }
 
+.b{
+    display: block;
+}
 
+.i{
+    /* display: inline; */
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
 
-
-
+img {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 50px;
+    border: 2px solid red;
+    padding: 20px;
+    display: inline-block;
+}
